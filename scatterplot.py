@@ -11,9 +11,10 @@ female_literacy=[3,2]
 
 # Add a circle glyph to the figure p
 p.circle(fertility,female_literacy)
+p.x([4,5],[1,9])
 
 # Call the output_file() function and specify the name of the file
-output_file('fert_lit.html')
+output_file('output.html')
 
 # Display the plot
 show(p)
