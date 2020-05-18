@@ -10,8 +10,8 @@ fertility=[1,2]
 female_literacy=[3,2]
 
 # Add a circle glyph to the figure p
-p.circle(fertility,female_literacy)
-p.x([4,5],[1,9])
+p.circle(fertility,female_literacy,size=10,alpha=0.8, color='red')
+p.x([4,5],[1,9],size=10,alpha=0.8, color='red')
 
 # Call the output_file() function and specify the name of the file
 output_file('output.html')

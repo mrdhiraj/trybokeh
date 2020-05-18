@@ -4,7 +4,7 @@ circls, squares, triangles , rectangles ,lines
 
 Glyph Properties They have following properties
 	Coordinates
-	Size, Color, Transparency.
+	Size, Color, Transparency(Alpha)
 
 -Any squence type can be attatched to glyph eg list, array etc.
 
