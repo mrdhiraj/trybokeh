@@ -14,4 +14,4 @@ plot=figure()
 Properties of Plot 
 tools ='pan,box_zoom'
 
-Markers
+Internally Bokeh uses Column Data Source
